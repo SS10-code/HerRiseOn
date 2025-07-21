@@ -2,18 +2,18 @@
 ##Empowering though Opportunity
 HerRiseOn(pronouncee Horizon), is an app that curates scholarships and job opportunities for underrepresented women in any field. This is inspired bu the UN's 5th Sustainable Development Goal
 
-##Features
--Lift of scholarships and jobs for underrepresented women
--Filter options based on Money and Field
--Navigation Sidebar
+## Features
+- Lift of scholarships and jobs for underrepresented women
+- Filter options based on Money and Field
+- Navigation Sidebar
 
-##Inspiration
+## Inspiration
 This is inspired bu the UN's 5th Sustainable Development Goal, which is to reduce barriers for women in their career opportunities.
 
-##How It Works
+## How It Works
 HerRiseOn Uses a Python-based data-collector to gather real opportunities from public websites. The interface is built with Streamlit, making the front-end intuitive and simple
 
-##How To Use
+## How To Use
 1. Clone this repository
 2. In the checker_for_jobs.py and checker_for_scholarships.py replace the url with the url for the wanted site.
 3. Install Dependencies with pip streamlit selenium beautifulsoup4 requests

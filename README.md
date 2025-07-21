@@ -1,5 +1,5 @@
 # HerRiseOn
-##Empowering though Opportunity
+## Empowering though Opportunity
 HerRiseOn(pronouncee Horizon), is an app that curates scholarships and job opportunities for underrepresented women in any field. This is inspired bu the UN's 5th Sustainable Development Goal
 
 ## Features
